@@ -1,0 +1,10 @@
+name = "WW2 Fonts";
+author = "Wilhelm Haas (2PzD)";
+description = "WW2 Fonts - Version 1.0.0";
+overview = "This mod adds a selection of WW2 era fonts for use in dairy entries, hints, or any other place the accepts structured or formatted text.";
+logo = "Images\logo.paa";
+logoOver = "Images\logo.paa";
+logoSmall = "Images\logo.paa";
+picture = "Images\logo.paa";
+tooltip = "WW2 Fonts";
+action = "";
