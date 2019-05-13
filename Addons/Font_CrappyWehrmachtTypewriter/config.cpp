@@ -1,0 +1,16 @@
+﻿class CfgPatches {
+    class Font_CrappyWehrmachtTypewriter {
+        units[] = {};
+        weapons[] = {};
+        requiredVersion = 0.1;
+        requiredAddons[] = {};
+    };
+};
+
+class CfgFontFamilies {
+    class CrappyWehrmachtTypewriter {
+        fonts[] = {"\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter6","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter7","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter8","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter9","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter10","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter11","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter12","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter13","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter14","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter15","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter16","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter17","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter18","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter19","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter20","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter21","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter22","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter23","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter24","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter25","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter26","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter27","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter28","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter29","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter30","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter31","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter34","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter35","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter37","\Font_CrappyWehrmachtTypewriter\fonts\CrappyWehrmachtTypewriter\CrappyWehrmachtTypewriter46"};
+        spaceWidth = 0.9;
+        spacing = 0.1;
+    };
+};

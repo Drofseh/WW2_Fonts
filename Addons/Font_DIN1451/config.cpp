@@ -1,0 +1,16 @@
+﻿class CfgPatches {
+    class Font_DIN1451 {
+        units[] = {};
+        weapons[] = {};
+        requiredVersion = 0.1;
+        requiredAddons[] = {};
+    };
+};
+
+class CfgFontFamilies {
+    class DIN1451 {
+        fonts[] = {"\Font_DIN1451\fonts\DIN1451\DIN14516","\Font_DIN1451\fonts\DIN1451\DIN14517","\Font_DIN1451\fonts\DIN1451\DIN14518","\Font_DIN1451\fonts\DIN1451\DIN14519","\Font_DIN1451\fonts\DIN1451\DIN145110","\Font_DIN1451\fonts\DIN1451\DIN145111","\Font_DIN1451\fonts\DIN1451\DIN145112","\Font_DIN1451\fonts\DIN1451\DIN145113","\Font_DIN1451\fonts\DIN1451\DIN145114","\Font_DIN1451\fonts\DIN1451\DIN145115","\Font_DIN1451\fonts\DIN1451\DIN145116","\Font_DIN1451\fonts\DIN1451\DIN145117","\Font_DIN1451\fonts\DIN1451\DIN145118","\Font_DIN1451\fonts\DIN1451\DIN145119","\Font_DIN1451\fonts\DIN1451\DIN145120","\Font_DIN1451\fonts\DIN1451\DIN145121","\Font_DIN1451\fonts\DIN1451\DIN145122","\Font_DIN1451\fonts\DIN1451\DIN145123","\Font_DIN1451\fonts\DIN1451\DIN145124","\Font_DIN1451\fonts\DIN1451\DIN145125","\Font_DIN1451\fonts\DIN1451\DIN145126","\Font_DIN1451\fonts\DIN1451\DIN145127","\Font_DIN1451\fonts\DIN1451\DIN145128","\Font_DIN1451\fonts\DIN1451\DIN145129","\Font_DIN1451\fonts\DIN1451\DIN145130","\Font_DIN1451\fonts\DIN1451\DIN145131","\Font_DIN1451\fonts\DIN1451\DIN145134","\Font_DIN1451\fonts\DIN1451\DIN145135","\Font_DIN1451\fonts\DIN1451\DIN145137","\Font_DIN1451\fonts\DIN1451\DIN145146"};
+        spaceWidth = 0.9;
+        spacing = 0.1;
+    };
+};
